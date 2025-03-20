@@ -64,7 +64,7 @@ h1, h2, h3 {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(18,18,18,0.9), rgba(18,18,18,0.7)),
-                url('assets/images/hero-bg.jpg') center/cover;
+                url('assets/images/hero-bg.png') center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
