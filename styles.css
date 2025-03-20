@@ -206,6 +206,12 @@ h1, h2, h3 {
     color: var(--light);     /* Light text color */
 }
 
+/* Publications Section Heading */
+.publications h2 {
+    font-family: 'Playfair Display', serif; /* Use serif font for elegance */
+    color: var(--light); /* White for contrast on dark background */
+}
+
 /* Publication list */
 .publication-list {
     max-width: 800px;        /* Limit width */
@@ -257,6 +263,12 @@ h1, h2, h3 {
     background: var(--dark); /* Dark background */
     color: var(--light);     /* Light text color */
     text-align: center;      /* Center-align content */
+}
+
+/* Contact Section Heading */
+.contact h2 {
+    font-family: 'Playfair Display', serif; /* Use serif font for elegance */
+    color: var(--light); /* White for contrast on dark background */
 }
 
 /* Contact info */
