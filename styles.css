@@ -5,7 +5,6 @@
     --accent: #8A9A5B;     /* Sage Green for secondary accents */
     --light: #F5F5F5;      /* Off White for light backgrounds and text */
     --dark: #121212;       /* Near Black for dark backgrounds */
-    --white: #ffffff       /* White
 }
 
 /* Reset default browser styles */
@@ -204,7 +203,7 @@ h1, h2, h3 {
 .publications {
     padding: 5rem 5%;        /* Add padding */
     background: var(--dark); /* Dark background */
-    color: var(--white);     /* White text color */
+    color: var(--light);     /* Light text color */
 }
 
 /* Publication list */
