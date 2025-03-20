@@ -72,7 +72,7 @@ h1, h2, h3 {
 .hero {
     height: 100vh;           /* Full viewport height */
     background: linear-gradient(rgba(18,18,18,0.9), rgba(18,18,18,0.7)),
-                url('assets/images/hero-bg.jpg') center/cover; /* Dark overlay with background image */
+                url('assets/images/hero-bg.png') center/cover; /* Dark overlay with background image */
     display: flex;           /* Use flexbox for layout */
     align-items: center;     /* Vertically center content */
     justify-content: center; /* Horizontally center content */
