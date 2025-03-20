@@ -1,6 +1,6 @@
 /* Define color variables for easy reuse */
 :root {
-    --primary: #0A2342;    /* Navy Blue for text on light backgrounds */
+    --primary: #FFFFFF;    /* White for text on dark backgrounds */
     --secondary: #D4AF37;  /* Gold for accents and highlights */
     --accent: #8A9A5B;     /* Sage Green for secondary accents */
     --light: #F5F5F5;      /* Off White for light backgrounds and text */
